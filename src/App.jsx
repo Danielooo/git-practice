@@ -10,7 +10,10 @@ function App() {
     return (
         <>
             <h1>Git changes</h1>
+            
             <p>change 1</p>
+            
+            <p>change 2</p>
         
         </>
     );
